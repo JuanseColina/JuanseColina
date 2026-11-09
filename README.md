@@ -36,7 +36,7 @@ A music trivia game for iPhone and iPad that I designed, built and published on 
 
 [View on the App Store](https://apps.apple.com/us/app/guess-the-album-cover/id6765707853)
 
-## 🎮 Games · Senior Unity Developer at Roshka Studios (2021 – present)
+## 🎮 Games · Senior Unity Developer (2021 – present)
 
 | Game | Role | Downloads |
 |---|---|---|
