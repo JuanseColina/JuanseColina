@@ -66,6 +66,9 @@ A music trivia game for iPhone and iPad that I designed, built and published on 
 
 ## 📊 GitHub stats
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JuanseColina&show_icons=true&theme=transparent&title_color=dafa9c&icon_color=dafa9c&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanseColina&layout=compact&theme=transparent&title_color=dafa9c&hide_border=true" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanseColina&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanseColina&theme=github_dark" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=JuanseColina&theme=dark&background=0d1117&ring=dafa9c&fire=dafa9c&currStreakLabel=dafa9c&hide_border=true" />
 </p>
